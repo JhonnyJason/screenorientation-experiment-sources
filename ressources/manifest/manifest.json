@@ -13,9 +13,10 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/x",
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
-    "orientation": "any",
-    "display": "standalone"
+    "id": "Screenorientation Experiment",
+    "start_url": "/",
+    "theme_color": "#000000",
+    "background_color": "#000000",
+    "display": "standalone",
+    "orientation": "any"
 }
