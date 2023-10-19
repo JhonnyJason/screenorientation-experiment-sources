@@ -14,7 +14,8 @@
         }
     ],
     "id": "Screenorientation Experiment",
-    "start_url": "/",
+    "start_url": "https://orientation-experiment.dotv.ee",
+    "scope": "https://orientation-experiment.dotv.ee",
     "theme_color": "#000000",
     "background_color": "#000000",
     "display": "standalone",
