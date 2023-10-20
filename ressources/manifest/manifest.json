@@ -13,6 +13,7 @@
             "type": "image/png"
         }
     ],
+    "id": "Screenorientation Experiment",
     "start_url": "/",
     "scope": "https://orientation-experiment.dotv.ee/",
     "theme_color": "#000000",
